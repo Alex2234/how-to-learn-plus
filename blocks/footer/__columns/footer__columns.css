@@ -1,7 +1,7 @@
 .footer__columns {
-margin: auto;
+margin: auto auto;
+min-height: 250px;
 width: 90%;
 display: flex;
-min-height: 350px;
 justify-content: space-between;
 }
